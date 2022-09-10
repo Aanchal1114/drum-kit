@@ -33,26 +33,26 @@ margin: 10% auto;
     background: white;
 }
 .w{
-    background: url(images/tom1.png) no-repeat scroll 0 0 transparent;
+    background: url(tom1.png) no-repeat scroll 0 0 transparent;
     cursor: pointer;
 }
 .a{
-background-image: url(images/tom2.png); cursor: pointer;
+background-image: url(tom2.png); cursor: pointer;
 }
 .s{
-background-image: url(images/tom3.png); cursor: pointer;
+background-image: url(tom3.png); cursor: pointer;
 }
 .d{
-background-image: url(images/tom4.png); cursor: pointer;
+background-image: url(tom4.png); cursor: pointer;
 }
 .j{
-background-image: url(images/crash.png); cursor: pointer;
+background-image: url(crash.png); cursor: pointer;
 }
 .k{
-background-image: url(images/kick.png); cursor: pointer;
+background-image: url(kick.png); cursor: pointer;
 }
 .l{
-background-image: url(images/snare.png);cursor: pointer;
+background-image: url(snare.png);cursor: pointer;
 }
 .pressed{
     opacity: 0.5;
