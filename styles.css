@@ -1,0 +1,60 @@
+body{
+    color: rgb(6, 96, 132);
+    text-align: center;
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    color: palevioletred;
+    font-family: 'Arvo', serif;
+    font-size: 6rem;
+}
+footer{
+    color: pink;
+    padding-top: 40px;
+    font-family: sans-serif;
+}
+.btn{
+margin: 10% auto;
+}
+.drum{
+    color: red;
+    width: 120px;
+    height: 120px;
+    border: 10px solid #404b69;
+    font-weight: 800;
+    outline: none;
+    font-size: 3.5rem;
+    line-height: 2;
+    font-family: 'Arvo', serif;
+    text-shadow: 3px 0 #cbf1f1;
+    border-radius: 15px;
+    margin: 10px;
+    background: white;
+}
+.w{
+    background: url(images/tom1.png) no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+}
+.a{
+background-image: url(images/tom2.png); cursor: pointer;
+}
+.s{
+background-image: url(images/tom3.png); cursor: pointer;
+}
+.d{
+background-image: url(images/tom4.png); cursor: pointer;
+}
+.j{
+background-image: url(images/crash.png); cursor: pointer;
+}
+.k{
+background-image: url(images/kick.png); cursor: pointer;
+}
+.l{
+background-image: url(images/snare.png);cursor: pointer;
+}
+.pressed{
+    opacity: 0.5;
+    box-shadow: 0 3px 4px 0 #d8edf3;
+}
